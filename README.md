@@ -34,5 +34,9 @@ Files Included
 Conclusion
 This project demonstrates the ability to clean, analyze, and visualize data to generate actionable business insights.
 
+## Dashboard Preview
+
+![Dashboard](dashboard_preview.png)
+
 
 
