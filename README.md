@@ -31,6 +31,11 @@ Files Included
 -Power BI dashboard (.pbix).
 -Project screenshots.
 
+Future Improvements
+-Integrate real-time or larger datasets.
+-Explore cloud-based data storage and processing tools.
+-Enhance analysis using Python for deeper insights.
+
 Conclusion
 This project demonstrates the ability to clean, analyze, and visualize data to generate actionable business insights.
 
